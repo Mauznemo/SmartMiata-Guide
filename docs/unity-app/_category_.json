@@ -1,0 +1,8 @@
+{
+  "label": "[Archived] Unity App",
+  "position": 99,
+  "link": {
+    "type": "generated-index",
+    "description": "Unity App no longer needed since SmartifyOS is public, Will be removed in the future"
+  }
+}
