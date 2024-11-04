@@ -22,4 +22,4 @@ To find which wire is what please use your car's manual since it can depend on t
 
 > **[Making case for power supply](/docs/3d-modeling-case/power-circuit-case)**
 
-> **[Arduino code for power supply](/docs/3d-modeling-case/power-circuit-case)** TODO: Add correct link
+> **[Arduino code for power supply](/docs/main-microcontroller/system-power-control)**
