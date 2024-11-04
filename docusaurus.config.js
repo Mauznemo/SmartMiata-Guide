@@ -130,7 +130,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Smart Miata, smartify-os.co`,
+                copyright: `Copyright © ${new Date().getFullYear()} Smart Miata, smartify-os.com`,
             },
             prism: {
                 theme: prismThemes.github,
