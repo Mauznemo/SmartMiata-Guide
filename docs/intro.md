@@ -19,7 +19,7 @@ Here are all the requirements you should fulfil to be able to follow this guide.
 2. On the software side some experience with [**Unity**](https://unity.com/) and C# (SmartifyOS docs can be fond here **[docs.smartify-os.com](https://docs.smartify-os.com/)**)
 
 ### Hardware requirements
-1. If you want to use [SmartifyOS](https://smartify-os.com/) you need to use adn x86 computer (ARM support will hopefully be added later).
+1. If you want to use [SmartifyOS](https://smartify-os.com/) you need to use an x86 computer (ARM support will hopefully be added later).
 
 
 ## Need help or have an idea?

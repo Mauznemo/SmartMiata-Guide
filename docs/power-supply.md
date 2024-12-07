@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Making the power supply
@@ -13,7 +13,7 @@ The circuit I used works like this:
 ![Circuit diagram](/img/Miata-power-system_Schaltplan.png)
 
 :::note
-You can also use a Voltage divider instead of the LM 2596!
+You can probably also use a voltage divider instead of the LM 2596
 :::
 
 We have a relay that switches the constant 12V, which is going to the buck converters (the [XL4015 DC-DC and LM 2596S DC-DC](./buying-the-hardware#other-things-we-need)). The ignition switched 12V also goes through a buck converter to convert the 12V to 5V so that it doesn't break the relay.
