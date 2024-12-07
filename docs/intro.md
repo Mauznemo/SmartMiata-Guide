@@ -21,6 +21,9 @@ Here are all the requirements you should fulfil to be able to follow this guide.
 ### Hardware requirements
 1. If you want to use [SmartifyOS](https://smartify-os.com/) you need to use an x86 computer (ARM support will hopefully be added later).
 
+## Overview
+Here is a rough overview of how everything works together
+![overview](/img/smart-miata-overview.png)
 
 ## Need help or have an idea?
 
