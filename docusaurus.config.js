@@ -20,8 +20,8 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: "mauznemo", // Usually your GitHub org/user name.
-    projectName: "smart_miata", // Usually your repo name.
+    organizationName: "Mauznemo", // Usually your GitHub org/user name.
+    projectName: "SmartMiata-Guide", // Usually your repo name.
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -45,8 +45,8 @@ const config = {
                     sidebarPath: "./sidebars.js",
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    //editUrl:
-                    //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    editUrl:
+                        "https://github.com/Mauznemo/SmartMiata-Guide/tree/main/",
                 },
                 /*blog: {
           showReadingTime: true,
@@ -65,6 +65,7 @@ const config = {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            metadata: [{ name: "darkreader-lock" }],
             imageZoom: {
                 // CSS selector to apply the plugin to, defaults to '.markdown img'
                 selector: ".markdown :not(em) > img",
