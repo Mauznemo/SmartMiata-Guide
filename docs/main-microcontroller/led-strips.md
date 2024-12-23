@@ -7,7 +7,7 @@ sidebar_position: 4
 If you also want to add ambient lights to your interior you can simply control them with the Arduino.
 
 ## Wiring
-
+TODO: Add wiring
 
 ## Arduino code
 
