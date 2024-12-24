@@ -7,7 +7,7 @@ sidebar_position: 3
 If you want to know your Miata's steering angle to show it in the reverse camera or 3D model follow these steps.
 
 ## Hardware
-To measure the rotations in a way where the position doesn't get lost when for example rotated without power I used this [10-turn wire-wound potentiometer (10K)](https://www.ebay.de/itm/355243316155?itmmeta=01J0G8JQADE5M31KGNKHVGFC7Z&hash=item52b626d3bb:g:HasAAOSwvd1lZvwa&var=624459938435)
+To measure the rotations in a way where the position doesn't get lost when for example rotated without power I used this [10-turn wire-wound potentiometer (10K)](https://amzn.to/49Pme0d)
 
 ## 3D Print
 To mount it and make sure the rotation count of my steering column (3) gets converted to 9 rotations of the potentiometer I made this:
