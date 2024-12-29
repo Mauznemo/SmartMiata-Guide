@@ -85,7 +85,7 @@ const config = {
             // Replace with your project's social card
             image: "img/docusaurus-social-card.jpg",
             navbar: {
-                title: "Smart Miata (Preview)",
+                title: "Smart Miata Guide (Preview)",
                 logo: {
                     alt: "Smart Miata Logo",
                     src: "img/logo.png",

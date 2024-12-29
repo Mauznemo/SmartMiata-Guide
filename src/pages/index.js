@@ -17,7 +17,7 @@ function HomepageHeader() {
                 <p className="hero__subtitle">{siteConfig.tagline}</p>
                 <p className="warn">
                     This is a preview version! It is not completed (about
-                    30-40%) yet and if you find any mistake report it in the
+                    60-70%) yet and if you find any mistake report it in the
                     discord!
                 </p>
                 <div className={styles.buttons}>
