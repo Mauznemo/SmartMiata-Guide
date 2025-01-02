@@ -96,3 +96,6 @@ void sendTimeAndDate() {
   Serial.println(jsonString);
 }
 ```
+:::note
+You can use `speedKmH = gps.speed.mph(); to get the speed in mph`
+:::
