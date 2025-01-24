@@ -20,10 +20,6 @@ You can use one of those [online calculators](https://ohmslawcalculator.com/volt
 
 ## Arduino Code
 
-:::danger
-Although this code works it is inaccurate, and I want to change it later!
-:::
-
 First we need to define some variables.
 
 ```cpp
