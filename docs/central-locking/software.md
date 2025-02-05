@@ -257,8 +257,11 @@ void checkBle()
 }
 ```
 
-[**Code off Android App to lock, unlock and use proximity key**](https://github.com/Mauznemo/SmartifyOS-App)
-
 ### Full code
 
 You can get the full code from GitHub: **[SmartMiata miata-central-lock-controller.ino](https://github.com/Mauznemo/SmartMiata/blob/main/Arduino/miata-central-lock-controller/miata-central-lock-controller.ino)**
+
+### OpenCarKey
+
+I also have a separate open source project to make your own DIY remote car key or keyless entry. It has all the code for the Arduino or ESP32 and also for the phone app.
+[**GitHub**](https://github.com/Mauznemo/OpenCarKey)
