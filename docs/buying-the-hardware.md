@@ -8,7 +8,7 @@ Now that we can control the popups with Unity we need some hardware like a compu
 ## Buying the computer
 If you're also using [SmartifyOS](https://smartify-os.com/) for making the system you can't use a Raspberry Pi (at the moment) because it has an arm based system and Unity can only export to x86 and a Raspberry Pi probably doesn't have enough performance to run the 3D rendering at 60 FPS.
 
-After a while of searching I decided to go with the [youyeetoo X1](https://amzn.to/41JzvW9) because it seemed good for this project (It has pretty slow boot times, if you know of a mini computer of that size and price range that is better let me know!).
+After a while of searching I decided to go with the [youyeetoo X1](https://amzn.to/41JzvW9) because it seemed good for this project (f you know of a mini computer of that size and price range that is better let me know!). I recommend getting an NVMe M.2 drive and a CMOS battery for the youyeetoo for faster boot times.
 
 ## Buying the Screen
 
